@@ -1,0 +1,8 @@
+[Bb]in
+[Oo]bj
+*.exe
+*.dll
+.idea
+.vscode
+*.iml
+*.user
